@@ -1,0 +1,10 @@
+1
+1
+1
+terminate called after throwing an instance of 'std::invalid_argument'
+  what():  stoul
+tests/30_font_errors.sh: line 18: 21445 Aborted                 "$1" tests/font_wrong_format <<EOF
+test
+EOF
+
+134
